@@ -1,4 +1,4 @@
-# Se hace prueba el 20/10/2021
+# Se hace prueba el 26/10/2021
 se ejecutan las pruebas de cambio de texto en la main activity y en el cambio de pantalla.
 
 # Basic sample for Espresso
